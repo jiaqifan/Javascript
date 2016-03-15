@@ -1,0 +1,11 @@
+/*2016-03-14*/
+.container{width:500px; height:1000px; margin:100px auto 0;}
+.btn input{width:200px; height:40px; background:#f00; color:#fff; line-height:40px; font-size:24px; text-align:center;font-weight:bolder; border:none; margin-left:38px;}
+.container p{width:100%; text-align:center;}
+.imgcontent{width:80%; height:700px; margin-left:10%; border:10px solid #ddd; position:relative;}
+.imgcontent a{width:40px; height:40px; background:#000; filter:alpha(opacity:40); opacity:0.4; font-size:32px; font-weight:bolder; color:#fff; display:inline-block; position:absolute; top:280px; text-decoration:none; text-align:center;}
+.imgcontent .prev{left:20px;}
+.imgcontent .next{right:20px;}
+.imgcontent span{width:100%; height:50px; background:#000; filter:alpha(opacity:60); opacity:0.6; color:#fff; text-align:center; line-height:50px; display:inline-block;}
+.imgcontent p{width:100%; height:50px; background:#000; filter:alpha(opacity:60); opacity:0.6; color:#fff; text-align:center; position:absolute; bottom:0; margin:0; line-height:50px;}
+.imgcontent img{width:100%;}
