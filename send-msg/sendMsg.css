@@ -6,3 +6,5 @@
 .footer_panel .footer_input{padding:0; margin:0;}
 .footer_panel .footer_input .enter{width:73%; height:100%; border-radius:5px; border:1px solid #ddd; margin-top:3%;}
 .footer_panel .footer_input .send{font-size: 14px; font-weight: bold; border:none; background: none; color:#333; line-height: 2; padding:0;}
+.second{width:100%; overflow:hidden;}
+.secondcontent{float:right;}
