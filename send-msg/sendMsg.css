@@ -1,0 +1,8 @@
+.msgbg{background:url(img/iphone.png) no-repeat; background-size:100%; width:246px;  height:504px; margin:100px auto 0; position:relative;}
+.msgpanel{position:absolute; top:13.8%; left:8%; width:85%; height:64%;} 
+.footer_panel{width:85%; height:8%; background: #eee; border-top:1px solid #ccc; position:absolute; top:77.8%; left:8%;} 
+.footer_panel img{display:inline-block; width:13%; height:70%; border:1px solid #333; margin:3% 1%; float:left;}
+.footer_panel .footer_input{width:84%; height:70%; float: right; }
+.footer_panel .footer_input{padding:0; margin:0;}
+.footer_panel .footer_input .enter{width:73%; height:100%; border-radius:5px; border:1px solid #ddd; margin-top:3%;}
+.footer_panel .footer_input .send{font-size: 14px; font-weight: bold; border:none; background: none; color:#333; line-height: 2; padding:0;}
